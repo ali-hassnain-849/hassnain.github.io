@@ -1,0 +1,104 @@
+[
+    {
+        "id" : 1,
+        "name" : "HAVIT HV-G92 Gamepad",
+        "price" : "120",
+        "image" : "images/controller.svg"
+    },
+    {
+        "id" : 2,
+        "name" : "AK-900 Wired Keyboard",
+        "price" : "960",
+        "image" : "images/keyboard.svg"
+    },
+    {
+        "id" : 3,
+        "name" : "IPS LCD Gaming Monitor",
+        "price" : "370",
+        "image" : "images/lcd.svg"
+    },
+    {
+        "id" : 4,
+        "name" : "S-Series Comfort Chair ",
+        "price" : "220",
+        "image" : "images/chair.svg"
+    },
+    {
+        "id" : 5,
+        "name" : "pink jacket",
+        "price" : "420",
+        "image" : "images/jacket.svg"
+    },
+    {
+        "id" : 6,
+        "name" : "Gucci duffle bag",
+        "price" : "920",
+        "image" : "images/purse.svg"
+    },
+    {
+        "id" : 7,
+        "name" : "RGB liquid CPU Cooler",
+        "price" : "160",
+        "image" : "images/speaker.svg"
+    },
+    {
+        "id" : 8,
+        "name" : "Small BookSelf",
+        "price" : "420",
+        "image" : "images/table.svg"
+    },
+    {
+        "id" : 9,
+        "name" : "Breed Dry Dog Food",
+        "price" : "120",
+        "image" : "images/packet.svg"
+    },
+    {
+        "id" : 10,
+        "name" : "CANON EOS DSLR Camera",
+        "price" : "320",
+        "image" : "images/camera2.svg"
+    },
+    {
+        "id" : 11,
+        "name" : "ASUS FHD Gaming Laptop",
+        "price" : "720",
+        "image" : "images/laptop.svg"
+    },
+    {
+        "id" : 11,
+        "name" : "Curology Product Set",
+        "price" : "220",
+        "image" : "images/beauty.svg"
+    },
+    {
+        "id" : 12,
+        "name" : "Kids Electric Car",
+        "price" : "320",
+        "image" : "images/kid-car.svg"
+    },
+    {
+        "id" : 13,
+        "name" : "Curology Product Set",
+        "price" : "220",
+        "image" : "images/beauty.svg"
+    },
+    {
+        "id" : 14,
+        "name" : "Jr. Zoom Soccer Cleats",
+        "price" : "120",
+        "image" : "images/shoes.svg"
+    },
+    {
+        "id" : 15,
+        "name" : "GP11 Shooter USB Gamepad",
+        "price" : "160",
+        "image" : "images/game-pad2.svg"
+    },
+    {
+        "id" : 16,
+        "name" : "Quilted Satin Jacket",
+        "price" : "720",
+        "image" : "images/jacket2.svg"
+    }
+]

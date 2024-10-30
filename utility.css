@@ -1,0 +1,22 @@
+.border{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
+.justify{
+    justify-content: center;
+}
+.align{
+    align-items: center;
+}
+.container{
+    max-width: 85%;
+    margin: auto;
+}
+.m15{
+    margin-top: 15px;
+}
+.color{
+    color: rgb(219, 68, 68);
+}
